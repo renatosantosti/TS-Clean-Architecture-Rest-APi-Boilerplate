@@ -20,10 +20,10 @@ app.use(express.static("public"));
 const swaggerDefinition = {
   openapi: '3.0.0',
   info: {
-    title: 'NodeJs +TypeScript + Swagger Api Boilerplate',
+    title: 'TS-Clean-Architecture-Rest-APi-Boilerplate: TS Clean Archicterure Rest API with Swagger BoilerPlate',
     version: '1.0.0',
     description:
-      'This is a boilerplate REST API application made with TS + Express + TSoa + Swagger.',
+      'A RESTful API implemented in TypeScript using Express.js and Swagger. It follows the principles of Clean Architecture, focusing on separation of concerns and maintainability.',
     license: {
       name: 'Licensed Under MIT',
       url: 'https://spdx.org/licenses/MIT.html',

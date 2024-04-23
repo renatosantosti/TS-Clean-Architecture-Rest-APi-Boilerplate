@@ -1,5 +1,5 @@
 # TS-Clean-Architecture-Rest-APi-Boilerplate: TS Clean Archicterure Rest API with Swagger BoilerPlate
-##### _A rest api written on TS, Express and Swagger implemented with main patterns from Clean Archicteture_
+##### _TS-Clean-Architecture-Rest-APi-Boilerplate is a RESTful API implemented in TypeScript using Express.js and Swagger. It follows the principles of Clean Architecture, focusing on separation of concerns and maintainability._
 
 This project aims to provide an easier boilerplate to start an simple Rest API on TypeScript and Swagger implemented over Clean Archicteture concepts.
 
@@ -16,6 +16,12 @@ This project aims to provide an easier boilerplate to start an simple Rest API o
 - Docker
 
 ## Features
+Built with TypeScript for type safety and enhanced developer experience.
+Utilizes Express.js for robust and scalable routing.
+Implements Swagger for clear and interactive API documentation.
+Adheres to Clean Architecture principles for modularity and testability.
+
+## Other features
 - Provide TS configuration
 - Provide examples for Rest GET Api
 - Provide http route to autenticate user and generate valid token
@@ -29,16 +35,16 @@ This project aims to provide an easier boilerplate to start an simple Rest API o
     - Refresh existing and valid token otherwise invalidate this action
 - And also you can run project as Docker container
 
-## Installation
+## Getting Started
+To get started with TS-Clean-Architecture-Rest-APi-Boilerplate, follow these steps:
 
-This boilerplate requires [Node.js](https://nodejs.org/) v10+ to run.
+Clone the repository: git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
+Install dependencies: npm install
+Start the development server: npm run dev 
 
-## Create project 
-You can just clone this repo by:
-```sh
-git clone https://github.com/renatosantosti/node-ts-express-jwt-swagger-api-boilerplate
-```
-or try by youself from scrach:
+## Try from from scrach by youself
+
+If we want learn to implements this project by yourself I would recommend you to follow these step below and also you should take time to read recommended references.
 
 #### Creating project 
 

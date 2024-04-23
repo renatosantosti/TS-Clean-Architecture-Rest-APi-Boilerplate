@@ -20,6 +20,7 @@ Built with TypeScript for type safety and enhanced developer experience.
 Utilizes Express.js for robust and scalable routing.
 Implements Swagger for clear and interactive API documentation.
 Adheres to Clean Architecture principles for modularity and testability.
+![image](https://github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate/assets/16526537/2ec67d72-7bf3-4b16-a3a7-54b5b2a5675d)
 
 ## Other features
 - Provide TS configuration

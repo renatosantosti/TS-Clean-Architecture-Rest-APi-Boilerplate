@@ -42,8 +42,14 @@ Clone the repository:
 ```sh
     git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
 ```
-Install dependencies: ```sh npm install ```
-Start the development server: ```sh npm run dev ```
+Install dependencies: 
+```sh 
+npm install
+```
+Start the development server: 
+```sh 
+npm run dev
+```
 
 ## Try from from scrach by youself
 

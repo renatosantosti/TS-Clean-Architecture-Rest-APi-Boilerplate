@@ -38,9 +38,12 @@ Adheres to Clean Architecture principles for modularity and testability.
 ## Getting Started
 To get started with TS-Clean-Architecture-Rest-APi-Boilerplate, follow these steps:
 
-Clone the repository: git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
-Install dependencies: npm install
-Start the development server: npm run dev 
+Clone the repository: 
+``sh
+    git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
+```
+Install dependencies: ```sh npm install ```
+Start the development server: ```sh npm run dev ```
 
 ## Try from from scrach by youself
 

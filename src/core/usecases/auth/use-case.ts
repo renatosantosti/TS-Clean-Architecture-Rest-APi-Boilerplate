@@ -23,8 +23,8 @@ export default class AuthUseCase implements IAuthUseCase {
     if (!this.hashAdapter.validateHash(request.password, user.password)) {
       throw Error("Invalid password");
     }
-
-    const token = this.hashAdapter.createToken<UserDto>(user as UserDto);
+    const { name, email } = user;
+    const token = this.hashAdapter.createToken<UserDto>({ name, email } as UserDto);
 
     return { token };
   };

@@ -20,6 +20,7 @@ Built with TypeScript for type safety and enhanced developer experience.
 Utilizes Express.js for robust and scalable routing.
 Implements Swagger for clear and interactive API documentation.
 Adheres to Clean Architecture principles for modularity and testability.
+![image](https://github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate/assets/16526537/2ec67d72-7bf3-4b16-a3a7-54b5b2a5675d)
 
 ## Other features
 - Provide TS configuration
@@ -38,9 +39,18 @@ Adheres to Clean Architecture principles for modularity and testability.
 ## Getting Started
 To get started with TS-Clean-Architecture-Rest-APi-Boilerplate, follow these steps:
 
-Clone the repository: git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
-Install dependencies: npm install
-Start the development server: npm run dev 
+Clone the repository: 
+```sh
+    git clone github.com/renatosantosti/TS-Clean-Architecture-Rest-APi-Boilerplate.git
+```
+Install dependencies: 
+```sh 
+npm install
+```
+Start the development server: 
+```sh 
+npm run dev
+```
 
 ## Try from from scrach by youself
 
